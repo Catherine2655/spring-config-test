@@ -1,0 +1,4 @@
+mysql:
+  url: dev-http://localhost:3306/test
+test:
+  message: hello catherine,1000
