@@ -1,0 +1,8 @@
+mysql:
+  url: dev-http://localhost:3306/test
+test:
+  message: hello catherine,1000
+ip:
+  limit:
+    minutes: 3
+    maxTimes: 6
